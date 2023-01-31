@@ -1,0 +1,10 @@
+{
+	"name": "OASIS UBL",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"extensions": [
+		"redhat.vscode-xml",
+		"dotjoshjohnson.xml"
+	]
+}
