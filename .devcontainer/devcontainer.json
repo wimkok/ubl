@@ -1,11 +1,7 @@
 {
 	"name": "OASIS UBL",
 	"build": {
-		"dockerfile": "Dockerfile",
-	},
-	"settings": {
-		"terminal.integrated.shell.linux": "/bin/bash",
-		"terminal.integrated.shellArgs.linux": [ "-l" ],
+		"dockerfile": "Dockerfile"
 	},
 	"extensions": [
 		"redhat.vscode-xml",
